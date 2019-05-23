@@ -21,3 +21,10 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.classpath
+.project
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.jpt.core.prefs
+.settings/org.eclipse.jpt.entitygen.mysql-c.db
+.settings/org.eclipse.jpt.entitygen.new-mysql.db_plan_contingencia
+.settings/org.eclipse.wst.common.project.facet.core.xml
